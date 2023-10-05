@@ -8,27 +8,27 @@
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA.png?raw=true)
 ## Conclusions:-
-##### 1) CH Gayle becomes player of the match most of the times followed by AB de Villiers.
-##### 2) There are very rare case that a match will tie or end with no results.
-##### 3) Mumbai Indians wins toss most of the time followed by Kolkata Knight Riders.
+##### 1) CH Gayle becomes the player of the match most of the time followed by AB de Villiers.
+##### 2) There are very rare cases that a match will tie or end with no results.
+##### 3) Mumbai Indians win the toss most of the time followed by Kolkata Knight Riders.
 ##### 4) Batting first: - 
 ##### Most of the team wins by runs range between 0-20.
-##### It is very rare that a team won by 60+runs.
+##### It is very rare that a team wins by 60+ runs.
 
-##### 5) Batting first: - Mumbai Indians wins most of the time followed by Chennai Super Kings.
+##### 5) Batting first: - Mumbai Indians win most of the time followed by Chennai Super Kings.
 ##### 6) Batting 2nd: - Most of the team wins by wickets range between 4-6.
-##### 7) Batting 2nd : - Kolkata Knight Riders wins most of the time followed by Mumbai Indians.
+##### 7) Batting 2nd: - Kolkata Knight Riders wins most of the time followed by Mumbai Indians.
 ##### 8) Most of the matches are played in Mumbai.
 ##### 9) Relation between toss win and match win
-  #####  Out of total 756 matches, the winner of toss and team are same for 393 matches
+  #####  Out of a total of 756 matches, the winner of the toss and team are the same for 393 matches
   #####  Which is around 50% approx.
-  #####  So we can say toss does not make any effect on match winning.
+  #####  So we can say toss does not have any effect on match-winning.
 
 ##### 10) Most of the runs are scored by running between the wickets.
-##### 11) Most of the dismissal are due to Caught.
+##### 11) Most of the dismissals are due to Caught.
 ## Insights:-
-##### 1)	Home team has advantages in winning the match.
-##### 2)	The batsman should be fit to run between the wickets as most runs scored by running between the wickets.
-##### 3)	The team should focus on the catching skills of a player as it contributes in most of the wicket’s downfall.
+##### 1)	The home team has advantages in winning the match.
+##### 2)	The batsman should be fit to run between the wickets as most runs are scored by running between the wickets.
+##### 3)	The team should focus on the catching skills of a player as it contributes to most of the wicket’s downfall.
 ##### 4)	Mumbai Indians is the most successful team.
-![image]()
+![image](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA%203.png?raw=true)
