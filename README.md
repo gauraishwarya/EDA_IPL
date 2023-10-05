@@ -6,7 +6,7 @@
 ## Objective:-
 - ##### To find out the most successful teams, players and factors contributing win or loss of a team..
 ## Tech Stack Used:-
-![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Practo.png?raw=true)
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/IPL%20EDA.png?raw=true)
 ## Steps:-
 ##### 1. Web scrape the data from procto website (using Beatifulsoup and Selenium). 
 ##### 2. Concat all the web scraped csv files. 
