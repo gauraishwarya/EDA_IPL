@@ -26,5 +26,9 @@
 
 ##### 10) Most of the runs are scored by running between the wickets.
 ##### 11) Most of the dismissal are due to Caught.
-## Dashboard:-
+## Insights:-
+##### 1)	Home team has advantages in winning the match.
+##### 2)	The batsman should be fit to run between the wickets as most runs scored by running between the wickets.
+##### 3)	The team should focus on the catching skills of a player as it contributes in most of the wicket’s downfall.
+##### 4)	Mumbai Indians is the most successful team.
 ![image]()
